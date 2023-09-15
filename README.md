@@ -12,6 +12,8 @@ The application is distributed in 3 directories.
 The main code is MapMEQ.py.  When executed, it calls RunMEQ.py which is the main source code for the various procedures.
 The code will make a date-stamped directory such as ..\runs\MEQ_2023-09-05\ in which all the output and temporary files will be stored.
 
+The method is described in SPE-217809 and will be presented at the 2024 SPE Hydraulic Fracturing Conference on Feb. 7.
+
 ## License
 
 See the [LICENSE](LICENSE.md) file for license rights and limitations (MIT).
