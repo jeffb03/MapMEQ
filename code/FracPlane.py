@@ -272,6 +272,9 @@ class FracPlane():
 def PCA3d(data, correlation=False, sort=True):
     """ Applies Principal Component Analysis to the data
 
+    This module was adapted from GitHub repo by minhnhat93:
+    https://github.com/minhnhat93/ORB_SLAM_live-map/blob/master/fit_planes.py
+    
     Parameters
     ----------
     data: array
